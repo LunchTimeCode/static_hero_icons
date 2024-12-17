@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.2.0...v0.2.1) (2024-12-17)
+
+
+### Bug Fixes
+
+* readme ([a1f62ef](https://github.com/LunchTimeCode/static_hero_icons/commit/a1f62ef9cb74bfa96c26f27a9916b5a554706ef5))
+
 ## [0.2.0](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.1.0...v0.2.0) (2024-12-17)
 
 
