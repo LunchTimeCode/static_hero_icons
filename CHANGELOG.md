@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.3.0...v0.4.0) (2024-12-17)
+
+
+### Features
+
+* license comment ([49ed466](https://github.com/LunchTimeCode/static_hero_icons/commit/49ed4666a405ae68c5ac5a9535a6966e8de56b90))
+
+
+### Bug Fixes
+
+* build ([0249df4](https://github.com/LunchTimeCode/static_hero_icons/commit/0249df4672fbf7122577048ab9c1fc0cd934d2b3))
+
 ## [0.3.0](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.2.1...v0.3.0) (2024-12-17)
 
 
