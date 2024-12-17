@@ -23,3 +23,8 @@ fmt:
 
 publish:
     cargo publish --token $GLOBAL_CARGO_TOKEN
+
+
+d:
+    curl https://codeload.github.com/tailwindlabs/heroicons/tar.gz/master | \
+    tar -xz --strip=2 heroicons-master/optimized
