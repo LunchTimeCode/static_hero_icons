@@ -72,7 +72,9 @@ jobs:
             just push
         shell: bash  
   pub_lib:
+    needs: [ publish ]
     runs-on: ubuntu-latest
+    if: needs.verify.result == 'success' && needs.release.outputs.released
     steps:
       - uses: actions/checkout@v4
       
