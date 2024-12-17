@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.0](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.2.1...v0.3.0) (2024-12-17)
+
+
+### Features
+
+* main show case ([f443472](https://github.com/LunchTimeCode/static_hero_icons/commit/f443472ac135c7187479ddcb1abec64950830ece))
+* main show case ([3bad7c8](https://github.com/LunchTimeCode/static_hero_icons/commit/3bad7c841233f36dc3d48cc74ec4dab961eeeee0))
+* main show case ([406a241](https://github.com/LunchTimeCode/static_hero_icons/commit/406a241f3fd3b6821d331d6e9e79db69b2948269))
+
 ## [0.2.1](https://github.com/LunchTimeCode/static_hero_icons/compare/v0.2.0...v0.2.1) (2024-12-17)
 
 
