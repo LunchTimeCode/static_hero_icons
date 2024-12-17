@@ -1,5 +1,11 @@
 ## Static Heroicons in rust
 
+Heroicons is a set of free MIT-licensed high-quality SVG icons for you to use in your web projects. This crate provides a simple way to include these icons in your rust projects.
+The icons are from the [Heroicons](https://heroicons.com/) project and the icon as is are fall under the MIT license. See ICONS_LICENSE for more information.
+
+The code of this repo is licensed under the license found in the LICENSE file.
+
+
 ### Example
 ```rust
 fn main() {
